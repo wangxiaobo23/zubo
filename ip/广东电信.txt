@@ -6,3 +6,4 @@
 blog.cdlxkill.cn
 113.65.176.226:10000
 blog.cdlxkill.cn
+113.65.176.226:10000
